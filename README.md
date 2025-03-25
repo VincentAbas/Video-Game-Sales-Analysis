@@ -29,6 +29,6 @@
   - Other_Sales - Sales in the rest of the world (in millions)
   - Global_Sales - Total worldwide sales.
 
-## Visualization and Insights
+## Visualization, Insights, and Recommendation
 
-## Recommendation
+
