@@ -12,6 +12,7 @@
 
 ## Data Sources
   Kaggle Sourse : https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
+  Processed Data: https://github.com/VincentAbas/Video-Game-Sales-Analysis/blob/main/VGSales_Cleaned.csv
 
 ## Data Info
   Features:
