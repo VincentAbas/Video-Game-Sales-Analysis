@@ -70,6 +70,10 @@ Nintendo has been a big hit from the start with their iconic Super Mario Bros., 
   
   If the gameplay doesn't hold up and is not fun the player base will not last. In order to have a lasting community your game need to have an unforgettable art style and great gameplay.
 
+### Video Game Sales DASHBOARD
+
+https://public.tableau.com/app/profile/vincent.abas/viz/VideoGameSales_17428661079030/Dashboard1
+
 
 
 
