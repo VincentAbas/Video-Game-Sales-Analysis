@@ -18,7 +18,7 @@
   
   - Rank - Ranking of overall sales
   - Name - The games name
-  - Platform - Platform of the games release ( PC,PS4)
+  - Platform - Platform of the games release
   - Year - Year of the game's release
   - Genre - Genre of the game
   - Publisher - Publisher of the game
