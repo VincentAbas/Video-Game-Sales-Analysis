@@ -11,8 +11,8 @@
   3. Identify the Top Publishers and their performance over the years. 
 
 ## Data Sources
-  Kaggle Sourse : https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
-  Processed Data: https://github.com/VincentAbas/Video-Game-Sales-Analysis/blob/main/VGSales_Cleaned.csv
+   - Kaggle Sourse : https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
+   -  Processed Data: https://github.com/VincentAbas/Video-Game-Sales-Analysis/blob/main/VGSales_Cleaned.csv
 
 ## Data Info
   Features:
