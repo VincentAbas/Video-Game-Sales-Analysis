@@ -29,6 +29,10 @@
   - Other_Sales - Sales in the rest of the world (in millions)
   - Global_Sales - Total worldwide sales.
 
+## Data Cleaning
+  I used Python in Google Colab to check duplicates, null values, and removed them. I removed the rows with null values just for the sake of setting an example for visualization because I didn't have the time to fill all the missing values as there are 300+ 
+  records with missing values and "Unknown" written on it. However, I did fill some null values such as publishers and the game's year of release and other records that have the word "Unknown" on it. The Ideal Cleaning would've been fill up all 300+ records but for the sake of time I removed them.
+
 ## Visualization, Insights, and Recommendation
 
 ### Global Copies Sold by Genre
